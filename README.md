@@ -3,6 +3,13 @@
 Practica de Git y GitHub con Python
 
 ## Temas
+
+### Qué es git? (workflow)
+
+![Que es git](https://hackernoon.com/hn-images/1*9qX9F9MGsWKfcmgTOR9BPw.png)
+![Que es git2](https://support.cades.ornl.gov/user-documentation/_book/contributing/screenshots/git-workflow-steps.png)
+
+
 * Instalación de Git 
 * Config de git
 * Comandos de git para contribución remota/workflow
