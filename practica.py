@@ -5,3 +5,7 @@ print("Hola mundo en python de nuevo ajaja xD")
 #Pasos git add nombreArchivo, git commit -m "Comentario"
 #Para regresar un archivo de staging a directorio --> git rm -- cached "nombreArchivo"
 # git log nombreArchivo --> Para ver el historial de los commits de cada commit
+
+#*Analizar cambios de un archivo*#
+#git show nombreArchivo
+
